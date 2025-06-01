@@ -1,0 +1,35 @@
+{
+  "configurations" : [
+    {
+      "id" : "08471F87-42E7-4DBD-B2E7-CCF9E659D62A",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:ChatPrototype.xcodeproj",
+      "identifier" : "A1F8C4E32DEC4293001C8171",
+      "name" : "ChatPrototype"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:ChatPrototype.xcodeproj",
+        "identifier" : "A1F8C4F02DEC4295001C8171",
+        "name" : "ChatPrototypeTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:ChatPrototype.xcodeproj",
+        "identifier" : "A1F8C4FA2DEC4295001C8171",
+        "name" : "ChatPrototypeUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

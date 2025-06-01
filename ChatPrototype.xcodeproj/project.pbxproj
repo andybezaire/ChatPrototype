@@ -28,6 +28,7 @@
 		A1F8C4F12DEC4295001C8171 /* ChatPrototypeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ChatPrototypeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A1F8C4FB2DEC4295001C8171 /* ChatPrototypeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ChatPrototypeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A1F8C5182DEC4796001C8171 /* ChatPrototype.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = ChatPrototype.xctestplan; sourceTree = "<group>"; };
+		A1F8C51B2DEC49CA001C8171 /* ChatPrototypeUI.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = ChatPrototypeUI.xctestplan; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -77,6 +78,7 @@
 			isa = PBXGroup;
 			children = (
 				A1F8C5182DEC4796001C8171 /* ChatPrototype.xctestplan */,
+				A1F8C51B2DEC49CA001C8171 /* ChatPrototypeUI.xctestplan */,
 				A1F8C4E62DEC4293001C8171 /* ChatPrototype */,
 				A1F8C4F42DEC4295001C8171 /* ChatPrototypeTests */,
 				A1F8C4FE2DEC4295001C8171 /* ChatPrototypeUITests */,
